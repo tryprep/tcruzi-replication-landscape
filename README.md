@@ -78,7 +78,7 @@ The raw sequencing data analyzed in this study are publicly available in the **N
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/mcarolinaelias/tcruzi-replication-landscape.git
+    git clone https://github.com/tryprep/tcruzi-replication-landscape.git
     ```
 2.  **Environment:** Ensure all tools listed in the "Technical Stack" are installed (we recommend using **Conda** for environment management).
 3.  **Scripts:** Detailed execution instructions for each script can be found within their respective directories.
