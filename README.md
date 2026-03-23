@@ -13,7 +13,7 @@ Our research investigates how the spatial organization of the *Trypanosoma cruzi
 ### 👥 Contributors
 *   **Thiago Andrade Franco** (Lead Developer/First Author)
 *   **David da Silva Pires**
-*   **Vinícius Carius de Souza**
+*   [**Vinícius Carius de Souza**](https://github.com/vcarius)
 *   **Maria Carolina Elias** (Principal Investigator/Corresponding Author)
 
 ---
